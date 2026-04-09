@@ -1,0 +1,18 @@
+{
+  "data_dir": "outputs/dataset2",
+  "output_dir": "outputs/AIDA_4090_34_128",
+  "blocks": 34,
+  "channels": 128,
+  "epochs": 30,
+  "batch_size": 128,
+  "lr": 0.00025,
+  "weight_decay": 0.0005,
+  "value_loss_weight": 0.25,
+  "label_smoothing": 0.05,
+  "num_workers": 8,
+  "seed": 2024,
+  "device": "cuda",
+  "augment_symmetry": true,
+  "amp": true,
+  "resume": null
+}
