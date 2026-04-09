@@ -1,6 +1,6 @@
 # AIDA-AFTERLIFE
 
-`AIDA-AFTERLIFE` 是一个面向 六子棋的训练与推理项目
+AIDA是一个面向六子棋的训练与推理项目
 
 ## 项目特点
 
