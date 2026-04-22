@@ -98,3 +98,7 @@ python evaluate.py --checkpoint outputs/run01/best.pt --data-dir outputs/dataset
 ```powershell
 python export_competition_model.py --checkpoint outputs/run01/best.pt --output outputs/run01/con6_resnet_big.pth
 ```
+
+## 免责声明
+本仓库并非最终的比赛版本，仅作为比赛版本的简化版提供，移除了部分依赖与隐藏了核心逻辑，不提供完整的数据集，仅作演示用途。
+本仓库仅供学习与参考，严禁直接抄袭或照搬用于比赛及课程设计。对于任何因不当使用导致的纠纷与后果，本团队不承担任何责任。
